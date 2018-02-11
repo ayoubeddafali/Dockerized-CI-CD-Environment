@@ -1,0 +1,3 @@
+FROM sonarqube
+
+MAINTAINER ayoubensalem

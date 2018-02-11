@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+docker build -f jenkins/Dockerfile -t ayoubensalem/jenkins ./jenkins
+docker build -f nexus/Dockerfile -t ayoubensalem/nexus ./nexus
+docker build -f sonar/Dockerfile -t ayoubensalem/sonar ./sonar
