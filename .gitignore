@@ -1,3 +1,2 @@
 !jenkins/.gitkeep
-jenkins/
-docker/jenkins/id*
+jenkins/*
