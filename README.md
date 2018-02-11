@@ -38,6 +38,11 @@ To see the logs :
 $ docker logs -f
 ```
 
+## Notes
+
+Be aware that you need to change the dockerfile to meet your environment. I have intended to use it for Java Projects, so you will see some pre-defined configurations and tools already installed (*maven* ...).
+You can specify other images, or your images in the `docker` directory and install whatever you need then.
+
 ## Maintainer
 
 > [ayoubensalem](https://www.github.com/ayoubensalem)
