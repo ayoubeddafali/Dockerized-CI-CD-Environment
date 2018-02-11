@@ -1,8 +1,6 @@
 # Dockerized CI/CD Environment
 
-### This is a simple dockerized environment for CI/CD pipelines.
-
-
+#### A simple dockerized environment for CI/CD pipelines, designed to accelerate your workflow.
 
 ## Main Tools :
 
